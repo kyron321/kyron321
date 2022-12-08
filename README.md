@@ -7,9 +7,8 @@ All the things I have worked on are available on my **[Repositories](https://git
 
 #### Social links
 
-Get in touch with me through these socials.
+Get in touch with me through my Linkedin!
 
-[![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://kyron321.github.io/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyron-smith-0b85a8255/)
 
 #### Repository stats
