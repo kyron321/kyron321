@@ -2,8 +2,6 @@
 
 I'm a full stack developer in training at the [Northcoders Bootcamp](https://northcoders.com/)!
 
-I’m a backend developer at [KMS Lighthouse](https://www.kmslh.com/) building the search and everything around it. In my spare time, I participate in various hackathons like 🇰🇷 **JunctionX Seoul** with my team 🏆 **[@daredevils](https://github.com/daredevils-team)**, learn new technologies and code some open-source projects.
-
 All the things I have worked on are available on my **[current tasks](https://github.com/kyron321?tab=repositories)** page, feel free to take a look! 
 
 
