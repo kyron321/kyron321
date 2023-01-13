@@ -2,6 +2,23 @@
 
 I'm a future full stack developer training at the [Northcoders Bootcamp](https://northcoders.com/)!
 
+Technologies I know and use:
+<br><br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=SASS&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+
+What I'm currently learning:
+<br><br>
+![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=for-the-badge)
+
 All the things I have worked on are available on my **[Repositories](https://github.com/kyron321?tab=repositories)** page, feel free to take a look! 
 
 
