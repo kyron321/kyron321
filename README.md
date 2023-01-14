@@ -2,7 +2,7 @@
 
 I'm a future full stack developer training at the [Northcoders Bootcamp](https://northcoders.com/)!
 
-Languages/Frameworks I know and use:
+Languages/Frameworks I know and have used:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
