@@ -12,12 +12,13 @@ Languages/Frameworks I know and have used:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=for-the-badge)
 
 What I'm currently learning:
 <br><br>
 ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=for-the-badge)
+
 
 All the things I have worked on are available on my **[Repositories](https://github.com/kyron321?tab=repositories)** page, feel free to take a look! 
 
