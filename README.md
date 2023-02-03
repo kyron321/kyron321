@@ -2,7 +2,7 @@
 
 I'm a future full stack developer training at the [Northcoders Bootcamp](https://northcoders.com/)!
 
-Languages/Frameworks I know and have used:
+Technologies I know and have used:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
@@ -14,10 +14,13 @@ Languages/Frameworks I know and have used:
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=for-the-badge)
 
+
 What I'm currently learning:
 <br><br>
 ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/webRTC-%23323330.svg?style=for-the-badge&logo=WebRTC&logoColor=%#333333)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=%#E10098)
 
 
 All the things I have worked on are available on my **[Repositories](https://github.com/kyron321?tab=repositories)** page, feel free to take a look! 
