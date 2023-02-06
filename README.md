@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m **Kyron**
 
-I'm a future full stack developer training at the [Northcoders Bootcamp](https://northcoders.com/)!
+Im a full stack software developer working at JTS Digital.
 
 Technologies I know and have used:
 <br><br>
