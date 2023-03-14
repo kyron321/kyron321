@@ -22,6 +22,8 @@ What I'm currently learning:
 ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=%#E10098)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=Amazon-AWS&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&logoColor=white&style=for-the-badge)
 
 
 All the things I have worked on are available on my **[Repositories](https://github.com/kyron321?tab=repositories)** page, feel free to take a look! 
