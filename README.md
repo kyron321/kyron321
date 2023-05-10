@@ -20,6 +20,7 @@ Technologies I know and have used:
 
 What I'm currently learning:
 <br><br>
+![Python](https://img.shields.io/badge/-Python-3178C6?logo=Python&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=%#E10098)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=Amazon-AWS&logoColor=white&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&logoColor=white&style=for-the-badge)
