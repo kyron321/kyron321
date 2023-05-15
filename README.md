@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m **Kyron**
 
-Im a full stack software developer working at JTS Digital.
+I'm a Junior Full Stack Software Developer working at JTS Digital.
 
 Technologies I know and have used:
 <br><br>
