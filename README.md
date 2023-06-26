@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m **Kyron**
 
-I'm a Junior Full Stack Software Developer working at JTS Digital.
+I'm an apprentice software developer working for ExtraMile Digital.
 
 Technologies I know and have used:
 <br><br>
