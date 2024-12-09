@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m **Kyron**
 
-I'm an apprentice software developer working for ExtraMile Digital.
+I'm an software developer working with alot of things!
 
 Technologies I know and have used:
 <br><br>
